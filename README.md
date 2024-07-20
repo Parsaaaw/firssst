@@ -1,7 +1,2 @@
-# firssst
-Setting Up Git
-
-# two
-```
-two
-```
+# Fun
+Just for fun:)
